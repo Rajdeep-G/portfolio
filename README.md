@@ -9,17 +9,16 @@
     5. resume 
     6. my blogs
 
-2.
 
-3. Expeience
+4. particiaption(ctfs) / projects
 
-4. particiaption(ctfs)
 
-Blogs
 
 
 5. contact me 
 
 6. Footer
 
-7. dark mode 
+7. dark mode - footer + header
+
+8. Blogs
