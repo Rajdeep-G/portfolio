@@ -1,7 +1,8 @@
+
 function Hero() {
     return (
         <div>
-            <div class="text-black body-font   ">
+            <div class="text-black body-font ">
                 <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center   ">
                     <div class="lg:max-w-md lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0 items-center flex mx-auto   ">
                         <img alt="team" className="flex-shrink-0 rounded-full w-72 h-72 object-cover object-center mb-4" src={process.env.PUBLIC_URL + "/Assets/dp2.JPEg"}>

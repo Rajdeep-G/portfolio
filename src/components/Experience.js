@@ -1,4 +1,3 @@
-import Shake from 'react-reveal/Shake';
 function Experience() {
     return (
         <div>
@@ -7,7 +6,7 @@ function Experience() {
             </div>
             <div class="text-blue-000 body-font">
                 <div class="container px-5 py-24 mx-auto">
-                    <Shake> <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
+                     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
                         <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-blue-100 text-blue-500 flex-shrink-0">
                             {/* <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
                                 <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
@@ -26,8 +25,8 @@ Created a brand new website of the company, along with database management, solv
                                 </svg> */}
                             </a>
                         </div>
-                    </div></Shake>
-                    <Shake> <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
+                    </div>
+                    <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
                         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                             <h2 class="text-black text-3xl title-font font-medium mb-2">Freelancer Web Developer</h2>
                             <p class="leading-relaxed text-xl pt-4">Full stack web developer || I can create a responsive customised website for you. ||
@@ -42,7 +41,7 @@ Have prior experience in Html, CSS, JS, React.js, Nuxt, Vue, Node, MongoDB, Word
                            
                             <img src={process.env.PUBLIC_URL+"Assets/f2.png"}/>
                         </div>
-                    </div></Shake>
+                    </div>
 
                 </div>
             </div>

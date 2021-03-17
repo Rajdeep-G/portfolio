@@ -1,4 +1,7 @@
 import P1 from './Projects/P1';
+import P2 from './Projects/P2';
+import P3 from './Projects/P3';
+import P4 from './Projects/P4';
 function AllProjects() {
     return (
         <div>
@@ -7,6 +10,16 @@ function AllProjects() {
             </div>
             <div>
                 <P1 />
+            </div>
+            <div>
+                <P2 />
+            </div>
+            <div>
+                <P3 />
+            </div>
+
+            <div>
+                <P4 />
             </div>
         </div>
     )
