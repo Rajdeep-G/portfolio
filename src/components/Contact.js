@@ -4,14 +4,14 @@ function Contact() {
             <div className="flex flex-col text-center w-full mb-2">
                 <div className="font-medium title-font mb-4 text-bold text-blue-800 text-3xl">Contact me</div>
             </div>
-            <div class="flex flex-col text-center w-full ">
-                <div class="text-2xl text-center ">
+            <div className="flex flex-col text-center w-full ">
+                <div className="text-2xl text-center ">
 
-                    <div class="socials py-5" data-aos="fade-up">
+                    <div className="socials py-5" data-aos="fade-up">
                         <a
                             href="https://www.github.com/Rajdeep-G/"
                             target="_blank"
-                            class="mr-4 inline-block transform hover:scale-110 mb-4 md:mb-0"
+                            className="mr-4 inline-block transform hover:scale-110 mb-4 md:mb-0"
                         >
                             <img
                                 // style="height: 2em"
@@ -23,7 +23,7 @@ function Contact() {
                             href="https://www.linkedin.com/in/rajdeep-ghosh2000rg/"
 
                             target="_blank"
-                            class="mr-4 inline-block transform hover:scale-110 mb-4 md:mb-0"
+                            className="mr-4 inline-block transform hover:scale-110 mb-4 md:mb-0"
                         >
                             <img
                                 // style="height: 2em"
@@ -34,7 +34,7 @@ function Contact() {
                         <a
                             href="mailto:ghoshrajdeep2000@gmail.com"
                             target="_blank"
-                            class="mr-4 inline-block transform hover:scale-110"
+                            className="mr-4 inline-block transform hover:scale-110"
                         >
                             <img
                                 // style="height: 2em"
