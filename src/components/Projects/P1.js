@@ -8,7 +8,7 @@ function P1() {
                 <div className="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center  ">
                     <Fade left>
                         <div className="lg:max-w-lg lg:w-full md:w-1/3 w-5/6 mb-10 md:mb-0  ">
-                            <img className="h-96 w-96 shadow-2xl object-fit object-center rounded" alt="project-1" src={process.env.PUBLIC_URL + "/Assets/projects/1.PNG"} />
+                            <img className="h-96 w-96 shadow-2xl object-fit object-center rounded" alt="project-1" src={process.env.PUBLIC_URL + "/Assets/projects/1.png"} />
                         </div>
                     </Fade>
 

@@ -11,7 +11,7 @@ function Navbar() {
                         <ScrollLink to="Contact" spy={true} smooth={true} duration={500}><span className="mr-5 hover:text-gray-900 text-2xl cursor-pointer">Contact</span></ScrollLink>
 
 
-                        <a className="hover:text-gray-900 text-2xl">Blogs</a>
+                        {/* <a className="hover:text-gray-900 text-2xl">Blogs</a> */}
                     </nav>
                     <ScrollLink to="Hero" spy={true} smooth={true} duration={500} className=" cursor-pointer  hover:text-gray-900 flex text-3xl order-first lg:order-none lg:w-1/5 title-font items-center text-gray-100 lg:items-center lg:justify-center mb-4 md:mb-0">
 
