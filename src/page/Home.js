@@ -6,9 +6,11 @@ import Contact from '../components/Contact';
 import Navbar from '../components/Navbar';
 import AllProjects from '../components/AllProjects';
 import { Element } from "react-scroll";
+import ScrollToTop from "react-scroll-to-top";
 const Home = () => {
     return (
         <div>
+            <ScrollToTop smooth />
             <Navbar />
             <Element name="Hero"></Element>
             <div>
@@ -29,6 +31,7 @@ const Home = () => {
             <div>
                 <Footer />
             </div>
+
         </div>
     )
 }

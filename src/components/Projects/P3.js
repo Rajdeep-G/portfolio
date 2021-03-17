@@ -4,7 +4,7 @@ function P3() {
     return (
         <div>
 
-            <section class="text-black body-font  ">
+            <section class="text-black body-font     ">
                 <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center  ">
                     <Fade left>
                         <div class="lg:max-w-lg lg:w-full md:w-1/3 w-5/6 mb-10 md:mb-0  ">
@@ -12,7 +12,7 @@ function P3() {
                         </div>
                     </Fade>
 
-                    <div class="lg:flex-grow md:w-1/2 lg:pl-32 mt-8 md:mt-0 md:pl-64 flex flex-col md:items-start md:text-left items-center text-center">
+                    <div class="lg:flex-grow md:w-1/2 lg:pl-32 mt-8 md:mt-0 flex flex-col md:items-start md:text-left items-center text-center">
                         <div class="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-900">
                             Kronos Tracker
                             </div>

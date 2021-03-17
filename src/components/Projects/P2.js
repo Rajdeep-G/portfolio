@@ -6,11 +6,11 @@ function P2() {
         <div>
             <div>
 
-                <section class="text-black body-font  ">
+                <section class="text-black body-font          ">
                     <div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center  ">
 
 
-                        <div class="lg:flex-grow md:w-1/2 lg:pl-32 mt-8 md:mt-0 md:pl-64 flex flex-col md:items-start md:text-left items-center text-center">
+                        <div class=" lg:flex-grow md:w-1/2 lg:pl-32 mt-8 md:mt-0 flex flex-col md:items-start md:text-left items-center text-center">
                             <div class="title-font sm:text-4xl text-3xl mb-4 font-medium text-blue-900">
                                 Covid app
                 </div>
