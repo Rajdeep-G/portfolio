@@ -1,12 +1,13 @@
 import { Link as ScrollLink } from 'react-scroll'
 function Navbar() {
     return (
-        <div>
+        <div className="sticky top-0 z-50">
             <header class="text-gray-100 body-font bg-indigo-500">
                 <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center  ">
                     <nav class="flex lg:w-2/5 flex-wrap items-center text-bold md:ml-auto  ">
-                        <ScrollLink to="Experience" spy={true} smooth={true} duration={500}><span className="mr-5 hover:text-gray-900 text-2xl cursor-pointer">Experience</span></ScrollLink>
                         <ScrollLink to="AllProjects" spy={true} smooth={true} duration={500}><span className="mr-5 hover:text-gray-900 text-2xl cursor-pointer">Projects</span></ScrollLink>
+                        <ScrollLink to="Experience" spy={true} smooth={true} duration={500}><span className="mr-5 hover:text-gray-900 text-2xl cursor-pointer">Experience</span></ScrollLink>
+
                         <ScrollLink to="Contact" spy={true} smooth={true} duration={500}><span className="mr-5 hover:text-gray-900 text-2xl cursor-pointer">Contact</span></ScrollLink>
 
 

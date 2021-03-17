@@ -24,7 +24,7 @@ function P2() {
 
                             </div>
                             <div class="mt-4"><a href="https://covid-app-rajdeep2k.herokuapp.com/" target="_blank" >
-                                <button class="mr-4 shadow-xl inline-flex text-white bg-gray-900 py-1 px-4 rounded text-lg cursor-pointer">Click here to view Live</button>
+                                <button class="transform hover:scale-110 mr-4 shadow-xl inline-flex text-white bg-gray-900 py-1 px-4 rounded text-lg cursor-pointer">Click here to view Live</button>
                             </a>
                             </div>
                             <div className="mt-4">

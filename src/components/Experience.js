@@ -1,7 +1,7 @@
 function Experience() {
     return (
         <div>
-            <div className="flex flex-col text-center w-full mb-2">
+            <div className="flex flex-col text-center w-full mb-2 mt-24">
                 <div className="font-medium title-font mb-4 text-bold text-blue-900 text-4xl">Experience</div>
             </div>
             <div class="text-blue-000 body-font">
@@ -29,8 +29,7 @@ Created a brand new website of the company, along with database management, solv
                     <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
                         <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
                             <h2 class="text-black text-3xl title-font font-medium mb-2">Freelancer Web Developer</h2>
-                            <p class="leading-relaxed text-xl pt-4">Full stack web developer || I can create a responsive customised website for you. ||
-Have prior experience in Html, CSS, JS, React.js, Nuxt, Vue, Node, MongoDB, Wordpress,etc.</p>
+                            <p class="leading-relaxed text-xl pt-4">Full stack web developer.Created responsive customised website for various clients. Have prior experience in Html, CSS, JS, React.js, Nuxt, Vue, Node, MongoDB, Wordpress,etc.</p>
 <p class="leading-relaxed text-base pt-2">Worked with - Menscript</p>
 
                             <a class="mt-3 text-xl  text-blue-500 inline-flex items-center">Sep 2020 - Present
